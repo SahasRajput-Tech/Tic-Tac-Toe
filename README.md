@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Enhancement Will Take Place Work In Progress
+This is a working and finished attemot to create a simple game of Tic-Tac-Toe
